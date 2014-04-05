@@ -1,0 +1,81 @@
+ul li h3{
+	font-size: 20pt;
+	margin: 0 auto;
+	text-align: center; 
+	color: darkblue;
+}
+ul li h4{
+	margin: 0 auto;
+	text-align: center;
+}
+ul li p{
+	margin: 0 auto;
+	text-align: center;
+}
+#top_numbers ul li{
+	display: inline-block;
+}
+#side_numbers{
+	display: inline-block;
+	vertical-align: top;
+}
+#side_numbers ul{
+	list-style: none;
+}
+#blue_table{
+	display: inline-block;
+	margin: 0 0 0 40px;
+}
+#blue_table ul{
+	list-style: none;
+	display: inline-block;
+	padding-left: 0px;
+}
+#blue_table ul li{
+	background-color: blue;
+	width: 55px;
+	margin: 5px 0 5px 0;
+}
+#pink_table{
+	display: inline-block;
+	margin: 0 0 0 30px;
+}
+#pink_table ul{
+	list-style: none;
+	display: inline-block;
+	padding-left: 0px;
+}
+#pink_table ul li{
+	background-color: pink;
+	width: 55px;
+	margin: 5px 0 5px 0;
+}
+#yellow_table{
+	display: inline-block;
+}
+#yellow_table ul{
+	list-style: none;
+	display: inline-block;
+	padding-left: 0px;
+	margin: 5px 0 5px 0;
+}
+#yellow_table ul li{
+	background-color: yellow;
+	width: 55px;
+	margin: 5px 0 5px 0;
+}
+#bottom_table{
+	display: inline-block;
+}
+#bottom_table ul{
+	list-style: none;
+	display: inline-block;
+	padding-left: 0px;
+	margin: 5px 0 5px 190px;
+}
+#bottom_table ul li{
+	background-color: green;
+	width: 60px;
+	display: inline-block;
+	margin: 5px 0 5px 0;
+}
